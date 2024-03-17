@@ -6,6 +6,8 @@ This repository contains my solutions to the exercises and projects from the boo
 
 1. [Chapter 1: Getting Started](chapter_01/)
 2. [Chapter 2: Variables and Simple Data Types](chapter_02/)
+3. [Chapter 3: Introducing Lists](chapter_03/)
+4. [Chapter 3: Working with Lists](chapter_04/)
 
 ## Credit:
 Book: "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming" by Eric Matthes
