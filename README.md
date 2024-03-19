@@ -9,6 +9,7 @@ This repository contains my solutions to the exercises and projects from the boo
 3. [Chapter 3: Introducing Lists](chapter_03/)
 4. [Chapter 4: Working with Lists](chapter_04/)
 5. [Chapter 5: if Statements](chapter_05/)
+6. [Chapter 6: Dictionaries](chapter_06/)
 
 ## Credit:
 Book: "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming" by Eric Matthes
